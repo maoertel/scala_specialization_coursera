@@ -1,2 +1,2 @@
-# scala_specialization_coursera
-The assignements for Scala specialization of EPFL/ M. Oderskys courses on Coursera
+# Scala Specialization Coursera
+The assignments for Scala specialization of EPFL / M. Oderskys courses on Coursera
